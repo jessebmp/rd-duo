@@ -10,4 +10,4 @@ Precise Mac control from iPhone and iPad. Published by Adjjective Limited Liabil
 
 Requires Apple silicon macOS 14+ and iOS/iPadOS 17+. Duo fold features require iOS 27.1. Mac only; no Windows/RDP support. Away access requires a private network path such as Tailscale and an awake, signed-in Mac.
 
-This repository hosts the support site and signed Mac releases. RD Duo includes modified Sill code by Noah Saffer under Apache 2.0; see [licenses](licenses.txt). No DuoRemote code or assets are included.
+This repository hosts the support site and signed Mac releases. RD Duo includes modified Sill code by Noah Saffer under Apache 2.0; see [licenses](licenses.txt).

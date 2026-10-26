@@ -7,7 +7,6 @@ Licensed under the Apache License, Version 2.0. See LICENSE.
 
 RD Duo modifications include the trackpad canvas and fold controls, app controls,
 session recovery, release identity, customer setup and distribution packaging.
-No DuoRemote source code or assets are included.
 
 
                                  Apache License
